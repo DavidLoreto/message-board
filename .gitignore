@@ -1,0 +1,5 @@
+env/
+mb_project/__pycache__/
+post/__pycache__/
+post/migrations/__pycache__/
+db.sqlite3
